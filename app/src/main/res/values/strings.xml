@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">project-alnus</string>
+    <string name="project_alnus">Project-Alnus</string>
+    <string name="log_in">Log-in</string>
+    <string name="sign_up">Sign-up</string>
+
 </resources>
