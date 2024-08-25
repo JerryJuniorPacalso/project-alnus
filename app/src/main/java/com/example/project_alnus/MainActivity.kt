@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    WelcomeScreen("Project-Alnus")
+                    WelcomeScreen(stringResource(id = R.string.project_alnus))
                 }
             }
         }
